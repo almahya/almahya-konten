@@ -10,3 +10,4 @@
 | 2026-11-22 | reels (permintaan pemilik) | Tips manajemen waktu SKD CPNS (voice ElevenLabs, 47,8 dtk) | posts/2026-11-22-1706-reels-manajemen-waktu-skd | 18141401920757401 |
 | 2026-11-22 | informasi | Infografis struktur SKD (110 soal, 100 mnt, skor maks 550, ambang batas kedinasan 2026) + CTA almahya.id | posts/2026-11-22-19-struktur-skd-info | 18147245113609395 |
 | 2026-11-22 | reels (permintaan pemilik) | CPNS 2026 vs 2027 (voice ElevenLabs, 64,6 dtk) | posts/2026-11-22-2230-reels-cpns-2026-vs-2027 | 18119345207121690 |
+| 2026-11-23 | reels soft selling (permintaan pemilik) | Paket bundling SKD+SKB almahya.id (voice ElevenLabs, 52,4 dtk) | posts/2026-11-23-0756-reels-softselling-bundling-skd-skb | 18108508631381937 |
