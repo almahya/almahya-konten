@@ -7,3 +7,4 @@
 | 2026-11-22 | edukasi | 5 kesalahan fatal saat SKD (struktur, waktu, TKP, TWK, simulasi CAT) | posts/2026-11-22-12-edukasi-kesalahan-skd | 18037998188666668 |
 | 2026-11-22 | terjadwal 13:25 WITA | Gaji Polhut dan Manggala Agni + ajakan SKD+SKB almahya.id | posts/2026-11-22-1325-gaji-polhut-manggala-agni | 17951357106357319 |
 | 2026-11-22 | permintaan pemilik | Instansi yang sudah beri kabar buka formasi CPNS 2026 (Kemenkeu 1.915, MA 4.430, dll) + CTA almahya.id SKD+SKB | posts/2026-11-22-19-instansi-buka-formasi | 18024519992936553 |
+| 2026-11-22 | reels (permintaan pemilik) | Tips manajemen waktu SKD CPNS (voice ElevenLabs, 47,8 dtk) | posts/2026-11-22-1706-reels-manajemen-waktu-skd | 18141401920757401 |
