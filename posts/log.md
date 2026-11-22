@@ -9,3 +9,4 @@
 | 2026-11-22 | permintaan pemilik | Instansi yang sudah beri kabar buka formasi CPNS 2026 (Kemenkeu 1.915, MA 4.430, dll) + CTA almahya.id SKD+SKB | posts/2026-11-22-19-instansi-buka-formasi | 18024519992936553 |
 | 2026-11-22 | reels (permintaan pemilik) | Tips manajemen waktu SKD CPNS (voice ElevenLabs, 47,8 dtk) | posts/2026-11-22-1706-reels-manajemen-waktu-skd | 18141401920757401 |
 | 2026-11-22 | informasi | Infografis struktur SKD (110 soal, 100 mnt, skor maks 550, ambang batas kedinasan 2026) + CTA almahya.id | posts/2026-11-22-19-struktur-skd-info | 18147245113609395 |
+| 2026-11-22 | reels (permintaan pemilik) | CPNS 2026 vs 2027 (voice ElevenLabs, 64,6 dtk) | posts/2026-11-22-2230-reels-cpns-2026-vs-2027 | 18119345207121690 |
