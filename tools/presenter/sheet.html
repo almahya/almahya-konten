@@ -1,0 +1,5 @@
+<html><body style="margin:0;background:#fff;font-family:Poppins,sans-serif"><div id=g style="display:grid;grid-template-columns:repeat(3,360px);gap:10px;padding:10px"></div>
+<script src="presenter.js"></script><script>
+const ps=[['idle',0.5,false],['wave',1.2,true],['point',2,true],['warning',2.5,true],['thumbs',1,false],['explain',0.8,true]];
+g.innerHTML=ps.map(p=>`<div style="background:#f3f6ff;border-radius:20px;text-align:center;padding:8px"><div style="width:340px;height:397px">${presenter(p[0],p[1],p[2])}</div><b>${p[0]}</b></div>`).join('');
+</script></body></html>
