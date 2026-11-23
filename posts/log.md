@@ -12,3 +12,4 @@
 | 2026-11-22 | reels (permintaan pemilik) | CPNS 2026 vs 2027 (voice ElevenLabs, 64,6 dtk) | posts/2026-11-22-2230-reels-cpns-2026-vs-2027 | 18119345207121690 |
 | 2026-11-23 | reels soft selling (permintaan pemilik) | Paket bundling SKD+SKB almahya.id (voice ElevenLabs, 52,4 dtk) | posts/2026-11-23-0756-reels-softselling-bundling-skd-skb | 18108508631381937 |
 | 2026-11-23 | reels berita (permintaan pemilik) | Hasil rapat Menpan-RB x Komisi II DPR: kebutuhan ASN 167.113, rencana buka 27 Nov (voice ElevenLabs, 53,3 dtk) | posts/2026-11-23-1346-reels-hasil-rapat-menpanrb-komisi2 | 18224560114343957 |
+| 2026-11-23 | reels promo (permintaan pemilik) | Tryout Nasional 1 gratis, poster di video (voice ElevenLabs, 41,7 dtk) | posts/2026-11-23-1555-reels-tryout-nasional1 | 17992832862092491 |
