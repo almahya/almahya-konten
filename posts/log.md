@@ -13,3 +13,4 @@
 | 2026-11-23 | reels soft selling (permintaan pemilik) | Paket bundling SKD+SKB almahya.id (voice ElevenLabs, 52,4 dtk) | posts/2026-11-23-0756-reels-softselling-bundling-skd-skb | 18108508631381937 |
 | 2026-11-23 | reels berita (permintaan pemilik) | Hasil rapat Menpan-RB x Komisi II DPR: kebutuhan ASN 167.113, rencana buka 27 Nov (voice ElevenLabs, 53,3 dtk) | posts/2026-11-23-1346-reels-hasil-rapat-menpanrb-komisi2 | 18224560114343957 |
 | 2026-11-23 | reels promo (permintaan pemilik) | Tryout Nasional 1 gratis, poster di video (voice ElevenLabs, 41,7 dtk) | posts/2026-11-23-1555-reels-tryout-nasional1 | 17992832862092491 |
+| 2026-11-23 | reels edukasi (permintaan pemilik) | Polisi Kehutanan CPNS KLHK 2024: formasi, pendidikan, penempatan, tes kesamaptaan (animasi) + CTA almahya.id (voice ElevenLabs, 77,7 dtk) | posts/2026-11-23-1955-reels-polisi-kehutanan-2024 | 17983581705132104 |
