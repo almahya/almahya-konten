@@ -10,7 +10,7 @@ Tiga, pendidikan atau akreditasi tidak sesuai syarat formasi.
 Empat, usia di luar batas yang ditentukan.
 Lima, mendaftar lebih dari satu instansi atau formasi.
 Dan ingat, masa sanggah bukan untuk memperbaiki kesalahan. Baca pengumuman resmi sebelum mendaftar. Simpan dan bagikan ke temanmu!
-Lolos administrasi, lanjut SKD. Latihan di tryout almahya titik i d. Soal SKD lengkap, ada pembahasan, sesuai kisi-kisi, plus contoh soal tahun dua ribu dua puluh empat. SKB juga disiapkan sesuai formasi. Coba sekarang di almahya titik i d!
+Lolos administrasi, lanjut SKD. Latihan di tryout almahya titik i d. Soal SKD lengkap, ada pembahasan, sesuai kisi-kisi, plus contoh soal tahun dua ribu dua puluh empat. SKB juga disiapkan sesuai formasi. Dan kalau kamu bergabung, ada grup sharing selama proses penerimaan CPNS, dari tahap administrasi sampai akhir. Coba sekarang di almahya titik i d!
 ```
 
 ## Fakta dan sumber
@@ -19,3 +19,4 @@ Lolos administrasi, lanjut SKD. Latihan di tryout almahya titik i d. Soal SKD le
 - Format/ukuran dokumen, kualifikasi pendidikan, batas usia: Kontan/Kompas.com "7 alasan tak lolos seleksi administrasi CPNS 2024".
 - Masa sanggah bukan untuk memperbaiki kesalahan; dokumen tidak bisa diunggah ulang: CNBC Indonesia 20 Sep 2024, Tirto.
 - Catatan: aturan seleksi 2026 bisa berbeda; naskah merujuk 2024 dan mengarahkan ke pengumuman resmi.
+- Grup sharing selama proses penerimaan CPNS (administrasi sampai akhir): layanan almahya, disampaikan pemilik (24 Nov 2026).
