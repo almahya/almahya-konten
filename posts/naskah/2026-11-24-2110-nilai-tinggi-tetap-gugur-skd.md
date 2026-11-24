@@ -1,15 +1,15 @@
-# Nilai SKD tinggi tapi tetap gugur (ambang batas per materi + peringkat 3x kebutuhan)
+# SKD cuma 40 persen: SKB bobotnya 60 persen dan tanpa passing grade (pengganti naskah "nilai tinggi tetap gugur", dinilai terlalu umum)
 
 Status: naskah, menunggu MP3.
 
 Naskah:
 
-Nilai SKD tinggi, tapi tetap gugur? Ini bisa terjadi, dan banyak yang tidak sadar!
-Pertama, kamu harus lolos tiga nilai ambang batas sekaligus. Berdasarkan ketentuan dua ribu dua puluh empat: TWK enam puluh lima, TIU delapan puluh, TKP seratus enam puluh enam. Satu saja kurang, gugur, walau nilai totalmu besar!
-Kedua, lolos ambang batas pun belum tentu aman. Kamu juga harus masuk peringkat maksimal tiga kali jumlah kebutuhan formasi.
-Ketiga, waktunya cuma seratus menit untuk seratus sepuluh soal. Latihan tanpa timer, bisa kehabisan waktu!
-Keempat, soal yang tidak dijawab nilainya nol. Jadi jangan ada yang dikosongkan!
-Jadi jangan hanya kejar nilai total. Seimbangkan ketiga materi, latihan dengan timer, dan isi semua soal. Simpan dan bagikan ke temanmu!
+Kamu fokus belajar SKD saja? Hati-hati, itu cuma empat puluh persen dari nilai akhir!
+Di CPNS dua ribu dua puluh empat, nilai akhir terdiri dari SKD empat puluh persen dan SKB enam puluh persen.
+Lebih tajam lagi, SKB tidak punya passing grade. Yang menang, skor tertinggi!
+Artinya, lolos SKD itu baru tiket masuk. Yang menentukan, siapa paling siap di SKB.
+Dan tiketnya terbatas: hanya peringkat sampai tiga kali kebutuhan formasi yang maju ke SKB.
+Jadi jangan tunggu SKD selesai baru belajar SKB. Siapkan dari sekarang. Simpan dan bagikan ke temanmu!
 Mau persiapan serius? Coba tryout almahya titik i d. Soal SKD lengkap, ada pembahasan, sesuai kisi-kisi, plus contoh soal dari tahun dua ribu sembilan belas sampai dua ribu dua puluh empat. SKB disiapkan sesuai formasi, dan ada grup sharing selama proses penerimaan CPNS, dari tahap administrasi sampai akhir. Coba sekarang di almahya titik i d!
 
-Sumber: Kepmenpan-RB 321/2024 via detik, CNN Indonesia, Liputan6, Kompas.tv (65/80/166; maks 550 = 150/175/225); CNN Indonesia 9 Okt 2024 (peringkat maks 3x kebutuhan; tidak menjawab = 0); BKN/Bisnis/JournalArta (110 soal, 100 menit).
+Sumber: Akurat (tidak ada passing grade SKB 2024; 40% SKD + 60% SKB), Jatim TIMES (SKD 40%), detikJogja (peserta SKB maks 3x kebutuhan), Kontan/BKN (syarat peringkat 3x kebutuhan). Catatan: aturan 2026 bisa berbeda, naskah memakai "CPNS 2024".
