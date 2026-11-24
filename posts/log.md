@@ -17,3 +17,4 @@
 | 2026-11-23 | reels edukasi/soft selling (permintaan pemilik) | Pentingnya menyiapkan SKB + SKD, presenter + animasi (voice ElevenLabs, 54,3 dtk) | posts/2026-11-23-2117-reels-pentingnya-skb-skd | 18402432469201448 |
 | 2026-11-24 | reels berita/edukasi (permintaan pemilik) | Countdown CPNS 27 Nov (rencana): akun SSCASN, dokumen, tahapan, target NIP 1 Juni 2027 + tawaran tryout almahya.id; cover kustom (voice ElevenLabs, 68 dtk) | posts/2026-11-24-1109-reels-countdown-cpns-27nov | 18012737600777792 |
 | 2026-11-24 | reels edukasi (permintaan pemilik) | 5 penyebab gagal seleksi administrasi CPNS 2024 + tawaran tryout almahya.id + grup sharing; cover kustom (voice ElevenLabs, 67,5 dtk) | posts/2026-11-24-1650-reels-5-penyebab-gagal-administrasi | 18112802012267420 |
+| 2026-11-24 | Reels | Bingung info CPNS 2026 (yang sudah jelas vs belum, jangan berharap berlebihan) | posts/2026-11-24-2155-reels-bingung-info-cpns-2026 | 18350206045285446 |
