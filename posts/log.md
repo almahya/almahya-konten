@@ -15,3 +15,4 @@
 | 2026-11-23 | reels promo (permintaan pemilik) | Tryout Nasional 1 gratis, poster di video (voice ElevenLabs, 41,7 dtk) | posts/2026-11-23-1555-reels-tryout-nasional1 | 17992832862092491 |
 | 2026-11-23 | reels edukasi (permintaan pemilik) | Polisi Kehutanan CPNS KLHK 2024: formasi, pendidikan, penempatan, tes kesamaptaan (animasi) + CTA almahya.id (voice ElevenLabs, 77,7 dtk) | posts/2026-11-23-1955-reels-polisi-kehutanan-2024 | 17983581705132104 |
 | 2026-11-23 | reels edukasi/soft selling (permintaan pemilik) | Pentingnya menyiapkan SKB + SKD, presenter + animasi (voice ElevenLabs, 54,3 dtk) | posts/2026-11-23-2117-reels-pentingnya-skb-skd | 18402432469201448 |
+| 2026-11-24 | reels berita/edukasi (permintaan pemilik) | Countdown CPNS 27 Nov (rencana): akun SSCASN, dokumen, tahapan, target NIP 1 Juni 2027 + tawaran tryout almahya.id; cover kustom (voice ElevenLabs, 68 dtk) | posts/2026-11-24-1109-reels-countdown-cpns-27nov | 18012737600777792 |
