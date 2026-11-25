@@ -24,4 +24,4 @@
 | 2026-11-25 | reels | Hasil konferensi pers 154.052 formasi | posts/2026-11-25-1405-reels-hasil-konferensi-pers-154052-formasi | 18171486937514995 |
 | 2026-11-25 | reels | 5 penyederhanaan dokumen CPNS 2026 (IG + TikTok + YouTube Shorts) | posts/2026-11-25-1730-reels-syarat-dokumen-disederhanakan | 17917711179510190 |
 | 2026-11-25 | reels | 60.000 formasi Polisi Kehutanan, video vertikal 4:39 (IG + TikTok) | posts/2026-11-25-2135-reels-polhut-60000-formasi | 18035504486860184 |
-| 2026-11-26 | reels | SKB Polhut: latihan soal + grup sharing, vertikal 6:03 (IG + TikTok) | posts/2026-11-26-0745-reels-skb-polhut-latihan-soal-grup | PENDING |
+| 2026-11-26 | reels | SKB Polhut: latihan soal + grup sharing, vertikal 6:03 (IG + TikTok) | posts/2026-11-26-0745-reels-skb-polhut-latihan-soal-grup | 17912945940666648 |
