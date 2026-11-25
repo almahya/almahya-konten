@@ -23,3 +23,4 @@
 | 2026-11-25 | reels | Ajakan grup pendaftar Polhut & Manggala Agni (IG + TikTok) | posts/2026-11-25-1320-reels-ajakan-grup-polhut-manggala-agni | 18082511339757348 |
 | 2026-11-25 | reels | Hasil konferensi pers 154.052 formasi | posts/2026-11-25-1405-reels-hasil-konferensi-pers-154052-formasi | 18171486937514995 |
 | 2026-11-25 | reels | 5 penyederhanaan dokumen CPNS 2026 (IG + TikTok + YouTube Shorts) | posts/2026-11-25-1730-reels-syarat-dokumen-disederhanakan | 17917711179510190 |
+| 2026-11-25 | reels | 60.000 formasi Polisi Kehutanan, video vertikal 4:39 (IG + TikTok) | posts/2026-11-25-2135-reels-polhut-60000-formasi | 18035504486860184 |
