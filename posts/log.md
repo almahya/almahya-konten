@@ -19,3 +19,4 @@
 | 2026-11-24 | reels edukasi (permintaan pemilik) | 5 penyebab gagal seleksi administrasi CPNS 2024 + tawaran tryout almahya.id + grup sharing; cover kustom (voice ElevenLabs, 67,5 dtk) | posts/2026-11-24-1650-reels-5-penyebab-gagal-administrasi | 18112802012267420 |
 | 2026-11-24 | Reels | Bingung info CPNS 2026 (yang sudah jelas vs belum, jangan berharap berlebihan) | posts/2026-11-24-2155-reels-bingung-info-cpns-2026 | 18350206045285446 |
 | 2026-11-25 | Reels | Konferensi pers Pengumuman Seleksi CPNS 2026 (Rabu 25 Nov 11.30 WIB, live YouTube PANRB), gambar PANRB + tawaran tryout (TIU lama dan terbaru) | posts/2026-11-25-0700-reels-konferensi-pers-seleksi-cpns-2026 | 18030441119863865 |
+| 2026-11-25 | reels | SKTT psikotes Guru Agama Sekolah Rakyat | posts/2026-11-25-0921-reels-skt-psikotes-guru-agama-sekolah-rakyat | 18114978740582453 |
