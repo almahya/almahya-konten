@@ -13,15 +13,15 @@ Posisi per 27 November 2026. Pendaftaran dibuka hari ini di sscasn.bkn.go.id; ta
 ```
 Hari ini pendaftaran CPNS dua ribu dua puluh enam resmi dibuka! Dan ada kabar untuk guru PPPK.
 
-Satu. Daftar lewat sscasn titik bkn titik go titik id. Siapkan dokumen dari awal, jangan menunggu hari terakhir.
+Satu. Daftar lewat sscasn titik bkn titik go titik id. Siapkan dokumen dari awal.
 
-Dua. Syarat dokumen lebih sederhana. Surat lamaran dan pernyataan digabung, dan pas foto tidak wajib.
+Dua. Dokumen disederhanakan, pas foto tidak wajib.
 
-Tiga. Presiden menyampaikan, guru PPPK berpeluang ikut CPNS lewat formasi khusus, baik di bawah maupun di atas tiga puluh lima tahun.
+Tiga. Presiden menyampaikan, guru PPPK berpeluang ikut CPNS lewat formasi khusus, di bawah maupun di atas tiga puluh lima tahun.
 
-Cek dulu syarat formasimu di pengumuman resmi. Simpan dan bagikan ke temanmu!
+Cek syarat formasimu di pengumuman resmi. Simpan dan bagikan ke temanmu!
 
-Mau latihan serius? Coba tryout almahya titik i d. Ada soal SKD lengkap dengan pembahasan, serta soal TIU lama dan TIU terbaru seperti yang keluar di SKD sekolah kedinasan tahun dua ribu dua puluh enam. Coba sekarang di almahya titik i d!
+Latihan serius di almahya titik i d: tryout SKD lengkap dengan pembahasan, plus soal TIU lama dan TIU terbaru seperti SKD sekolah kedinasan dua ribu dua puluh enam. Coba sekarang di almahya titik i d!
 ```
 
 ## Rencana scene
