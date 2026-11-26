@@ -15,15 +15,15 @@ Salah jawab di SKD dikurangi nilai? Ternyata tidak!
 
 Di TWK dan TIU, jawaban benar bernilai lima. Salah atau kosong bernilai nol. Tidak ada nilai minus.
 
-Di TKP, tidak ada jawaban salah. Setiap soal bernilai satu sampai lima, dan kosong bernilai nol.
+Di TKP, setiap soal bernilai satu sampai lima. Kosong bernilai nol.
 
-Nilai tertinggi lima ratus lima puluh. TWK seratus lima puluh, TIU seratus tujuh puluh lima, TKP dua ratus dua puluh lima.
+Nilai tertinggi lima ratus lima puluh.
 
-Jadi, jangan biarkan satu soal pun kosong. Tebak dengan logika! Ini aturan penilaian yang berlaku selama ini, tetap pantau aturan resmi tahun ini.
+Jadi, jangan biarkan soal kosong. Tebak dengan logika! Ini aturan selama ini, tetap pantau aturan resmi tahun ini.
 
 Simpan dan bagikan ke temanmu!
 
-Mau latihan? Coba tryout almahya titik i d. Ada pembahasan lengkap, soal sesuai kisi-kisi terbaru, dan soal TIU lama serta TIU terbaru seperti di SKD sekolah kedinasan tahun dua ribu dua puluh enam. Coba sekarang di almahya titik i d!
+Mau latihan? Coba tryout almahya titik i d. Ada pembahasan lengkap, soal sesuai kisi-kisi terbaru, dan soal TIU lama serta TIU terbaru seperti di SKD sekolah kedinasan tahun dua ribu dua puluh enam. Coba sekarang!
 ```
 
 ## Rencana scene
