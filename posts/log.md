@@ -26,3 +26,4 @@
 | 2026-11-25 | reels | 60.000 formasi Polisi Kehutanan, video vertikal 4:39 (IG + TikTok) | posts/2026-11-25-2135-reels-polhut-60000-formasi | 18035504486860184 |
 | 2026-11-26 | reels | SKB Polhut: latihan soal + grup sharing, vertikal 6:03 (IG + TikTok) | posts/2026-11-26-0745-reels-skb-polhut-latihan-soal-grup | 17912945940666648 |
 | 2026-11-26 | reels | Tryout Nasional Batch 2 gratis (IG + TikTok + YouTube Shorts) | posts/2026-11-26-0815-reels-tryout-nasional-batch-2-gratis | 18123789427965798 |
+| 2026-11-26 | reels | Formasi kosong KepmenPANRB 674/2026, 4:27 (IG + TikTok + YouTube) | posts/2026-11-26-0910-reels-formasi-kosong-kepmenpanrb-674 | PENDING |
