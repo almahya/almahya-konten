@@ -1,0 +1,17 @@
+TRIK CEPAT SOAL JERIGEN BENGKEL: ELIMINASI DULU, HITUNG BELAKANGAN! 🎯
+
+Soal penalaran numerikal (soal cerita): bengkel mengisi tangki minimal 75 liter dan maksimal 85 liter dengan 3 jenis jerigen (20 L, 35 L, 60 L). Kombinasi mana yang paling hemat?
+
+Langkahnya:
+✅ Catat syarat: minimal 75 L, maksimal 85 L
+✅ Eliminasi dulu pilihan yang pasti salah (volume kurang dari 75 L)
+✅ Hitung biaya hanya untuk pilihan yang lolos syarat
+✅ Bandingkan biaya, pilih yang paling hemat
+
+Jawabannya: 4 jerigen kecil (80 L, total Rp240.000). Pilihan B dan D lolos syarat volume, tapi biayanya lebih mahal.
+
+Mau belajar trik cepat untuk berbagai jenis soal CPNS 2026? Ikuti Kelas Online CPNS 2026 bersama Rusli, M.Ed dan tim almahya.id, daftar di almahya.id (link di bio).
+
+Tryout SKD lengkap dengan pembahasan, sesuai kisi-kisi, juga tersedia di almahya.id.
+
+#CPNS2026 #SKD #TrikCepat #PenalaranNumerik #almahya

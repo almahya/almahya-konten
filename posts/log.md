@@ -27,3 +27,4 @@
 | 2026-11-26 | reels | SKB Polhut: latihan soal + grup sharing, vertikal 6:03 (IG + TikTok) | posts/2026-11-26-0745-reels-skb-polhut-latihan-soal-grup | 17912945940666648 |
 | 2026-11-26 | reels | Tryout Nasional Batch 2 gratis (IG + TikTok + YouTube Shorts) | posts/2026-11-26-0815-reels-tryout-nasional-batch-2-gratis | 18123789427965798 |
 | 2026-11-26 | reels | Formasi kosong KepmenPANRB 674/2026, 4:27 (IG + TikTok + YouTube) | posts/2026-11-26-0910-reels-formasi-kosong-kepmenpanrb-674 | 17994744987119064 |
+| 2026-11-26 | reels | Trik cepat soal jerigen (video dari user, 3:39) (IG + TikTok + YouTube + Threads) | posts/2026-11-26-2125-reels-trik-cepat-soal-jerigen | PENDING |
