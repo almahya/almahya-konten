@@ -28,3 +28,6 @@
 | 2026-11-26 | reels | Tryout Nasional Batch 2 gratis (IG + TikTok + YouTube Shorts) | posts/2026-11-26-0815-reels-tryout-nasional-batch-2-gratis | 18123789427965798 |
 | 2026-11-26 | reels | Formasi kosong KepmenPANRB 674/2026, 4:27 (IG + TikTok + YouTube) | posts/2026-11-26-0910-reels-formasi-kosong-kepmenpanrb-674 | 17994744987119064 |
 | 2026-11-26 | reels | Trik cepat soal jerigen (video dari user, 3:39) (IG + TikTok + YouTube + Threads) | posts/2026-11-26-2125-reels-trik-cepat-soal-jerigen | 18155798551541243 |
+| 2026-11-27 | youtube | Video penuh Kepmen PANRB 2024 vs 2026, 9:10 (YouTube saja, https://youtu.be/HJ4AJWqtEBA) | posts/2026-11-27-0630-youtube-panjang-kepmen-2024-vs-2026 | - |
+| 2026-11-27 | reels | Kepmen 2024 vs 2026 Part 1, 4:28 (IG + TikTok + Threads) | posts/2026-11-27-0650-reels-kepmen-2024-vs-2026-part1 | 17914781787580118 |
+| 2026-11-27 | reels | Kepmen 2024 vs 2026 Part 2, 4:43 (IG + TikTok + Threads) | posts/2026-11-27-0650-reels-kepmen-2024-vs-2026-part2 | 18026052722724352 |
