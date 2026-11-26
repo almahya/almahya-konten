@@ -31,3 +31,4 @@
 | 2026-11-27 | youtube | Video penuh Kepmen PANRB 2024 vs 2026, 9:10 (YouTube saja, https://youtu.be/HJ4AJWqtEBA) | posts/2026-11-27-0630-youtube-panjang-kepmen-2024-vs-2026 | - |
 | 2026-11-27 | reels | Kepmen 2024 vs 2026 Part 1, 4:28 (IG + TikTok + Threads) | posts/2026-11-27-0650-reels-kepmen-2024-vs-2026-part1 | 17914781787580118 |
 | 2026-11-27 | reels | Kepmen 2024 vs 2026 Part 2, 4:43 (IG + TikTok + Threads) | posts/2026-11-27-0650-reels-kepmen-2024-vs-2026-part2 | 18026052722724352 |
+| 2026-11-27 | reels | CPNS 2026 resmi dibuka 154.052 formasi (IG + TikTok + YouTube + Threads) | posts/2026-11-27-0725-reels-cpns-2026-resmi-dibuka | 18150073738677982 |
