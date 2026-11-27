@@ -35,3 +35,4 @@
 | 2026-11-27 | reels | Poster bundling SKD+SKB jadi Reel + musik (IG + TikTok + Threads) | posts/2026-11-27-0830-reels-bundling-skd-skb | 18125932742284738 |
 | 2026-11-27 | carousel | Jadwal seleksi CPNS 2026 + 24 instansi + poster bundling, 8 slide (IG + TikTok foto + Threads) | posts/2026-11-27-1045-carousel-jadwal-seleksi-cpns-2026 | 17998237692048657 |
 | 2026-11-28 | reels | 4 instansi formasi tampil di SSCASN + poster bundling (IG + TikTok + YouTube + Threads) | posts/2026-11-28-0045-reels-4-instansi-sscasn | 18432071398152659 |
+| 2026-11-28 | reels | formasi Polisi Kehutanan Pemula: preemtif/preventif/represif P.75/2014 (soal: Paket_Polisi_Kehutanan_Pemula KK-2 P75 no.34) + 60.000 formasi Polhut (siaran pers Kemenhut), 109 dtk (IG + TikTok + YouTube Shorts + Threads) | posts/2026-11-28-0155-reels-formasi-polhut-pemula | MEDIA_ID |
