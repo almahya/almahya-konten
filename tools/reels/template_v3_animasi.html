@@ -1,0 +1,111 @@
+<html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box}body{margin:0;width:1080px;height:1920px;position:relative;font-family:Poppins;background:linear-gradient(180deg,#eef2fc 0%,#fff 45%,#fdeef0 100%);overflow:hidden;color:#14234b}
+.top{position:absolute;left:0;top:0;width:1080px;height:12px;background:#c8102e}
+.brand{position:absolute;left:70px;top:170px;font-weight:800;font-size:50px;color:#c8102e}.brand span{color:#14234b;font-weight:600;font-size:32px}
+.src{position:absolute;right:70px;top:186px;font-weight:600;font-size:26px;color:#7a84a3}
+.scene{position:absolute;left:0;top:0;width:1080px;height:1920px;opacity:0}
+.r{color:#c8102e}.y{color:#ffd23f}
+.h{font-weight:800;font-size:64px;line-height:1.1}
+.card{background:#fff;border-radius:26px;box-shadow:0 4px 14px #14234b1a}
+</style></head><body><div class=top></div><div class=brand>almahya<span> · CPNS &amp; ASN</span></div><div class=src>Sumber: SSCASN BKN</div>
+<script>
+const clamp=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));const ease=p=>1-Math.pow(1-p,3);
+const fmt=n=>Math.round(n).toLocaleString('id-ID');
+const sc=[],ticks=[];
+function scene(a,b){const d=document.createElement('div');d.className='scene';document.body.appendChild(d);const o={a,b,d,els:[]};sc.push(o);return o}
+function el(o,html,style,dt,kind='up'){const e=document.createElement('div');e.style.cssText='position:absolute;'+style;e.innerHTML=html;o.d.appendChild(e);o.els.push({e,t:o.a+dt,kind});return e}
+function counter(o,e,target,dt,dur=1.4,suffix=''){ticks.push(t=>{const p=ease(clamp((t-(o.a+dt))/dur));e.querySelector('.n').textContent=fmt(target*p)+suffix})}
+function bar(o,fill,pct,dt,dur=1){ticks.push(t=>{fill.style.width=(pct*ease(clamp((t-(o.a+dt))/dur)))+'%'})}
+const P=n=>`file:///home/claude/presenter_png/${n}.png`;
+let s;
+
+let e;
+const P3=n=>`file:///home/claude/presenter_png/${n}.png`;
+const A=(o,t)=>t-o.a;
+const END=(x)=>{s.els[s.els.length-1].end=x};
+
+const SV=(w,h,inner,st='')=>`<svg viewBox="0 0 ${w} ${h}" width="100%" height="100%" style="${st}" xmlns="http://www.w3.org/2000/svg">${inner}</svg>`;
+const gearPath=(cx,cy,r,n)=>{let p=[];for(let i=0;i<n*2;i++){const a=Math.PI*i/n,rr=i%2?r:r*1.28;const a2=a+Math.PI/n*0.5;p.push([cx+rr*Math.cos(a),cy+rr*Math.sin(a)],[cx+rr*Math.cos(a2),cy+rr*Math.sin(a2)])}return 'M'+p.map(x=>x[0].toFixed(1)+' '+x[1].toFixed(1)).join(' L')+' Z'};
+const person=(cx,cy,col)=>`<g transform="translate(${cx},${cy})"><circle cx="0" cy="-48" r="15" fill="#f2c9a0"/><path d="M-15 -52 Q0 -70 15 -52 Q8 -60 -15 -52Z" fill="#2b2b2b"/><rect x="-16" y="-32" width="32" height="44" rx="14" fill="${col}"/></g>`;
+const LOGIN=SV(620,400,`<rect x="20" y="10" width="580" height="340" rx="22" fill="#14234b"/><rect x="38" y="28" width="544" height="304" rx="10" fill="#fff"/><rect x="38" y="28" width="544" height="40" rx="10" fill="#e6eaf5"/><rect x="110" y="38" width="400" height="20" rx="10" fill="#fff"/><text x="310" y="54" text-anchor="middle" font-size="17" font-weight="700" fill="#14234b" font-family="Poppins">sscasn.bkn.go.id</text><circle cx="310" cy="118" r="28" fill="#c8102e"/><rect x="190" y="165" width="240" height="26" rx="8" fill="#e6eaf5"/><rect x="190" y="205" width="240" height="26" rx="8" fill="#e6eaf5"/><rect x="190" y="248" width="240" height="36" rx="10" fill="#14234b"/><text x="310" y="273" text-anchor="middle" font-size="20" font-weight="800" fill="#fff" font-family="Poppins">Masuk</text><g class="spin" style="transform-origin:310px 118px"><circle cx="310" cy="118" r="40" fill="none" stroke="#ffd23f" stroke-width="9" stroke-dasharray="70 190" stroke-linecap="round"/></g><g class="err" opacity="0"><rect x="130" y="130" width="360" height="120" rx="20" fill="#c8102e"/><circle cx="190" cy="190" r="28" fill="#fff"/><text x="190" y="202" text-anchor="middle" font-size="40" font-weight="800" fill="#c8102e" font-family="Poppins">!</text><text x="345" y="200" text-anchor="middle" font-size="38" font-weight="800" fill="#fff" font-family="Poppins">Gagal login!</text></g><path d="M0 350 H620 L590 392 H30 Z" fill="#c9d0e4"/><rect x="250" y="350" width="120" height="10" rx="5" fill="#aab3cf"/>`);
+const CROWD=SV(940,380,`<g class="srv"><rect x="700" y="30" width="200" height="90" rx="16" fill="#14234b"/><rect x="700" y="132" width="200" height="90" rx="16" fill="#14234b"/><rect x="700" y="234" width="200" height="90" rx="16" fill="#14234b"/><circle class="led" cx="730" cy="75" r="10" fill="#c8102e"/><circle class="led" cx="730" cy="177" r="10" fill="#c8102e"/><circle class="led" cx="730" cy="279" r="10" fill="#c8102e"/><rect x="760" y="68" width="110" height="14" rx="7" fill="#3a4a7a"/><rect x="760" y="170" width="110" height="14" rx="7" fill="#3a4a7a"/><rect x="760" y="272" width="110" height="14" rx="7" fill="#3a4a7a"/></g><g class="ppl"></g><g class="busy" opacity="0"><rect x="560" y="330" width="220" height="44" rx="22" fill="#c8102e"/><text x="670" y="360" text-anchor="middle" font-size="24" font-weight="800" fill="#fff" font-family="Poppins">Server sibuk</text></g>`);
+const GEARS=SV(420,230,`<g class="g1" style="transform-origin:140px 130px"><path d="${gearPath(140,130,62,10)}" fill="#14234b"/><circle cx="140" cy="130" r="22" fill="#eef2fc"/></g><g class="g2" style="transform-origin:262px 80px"><path d="${gearPath(262,80,38,8)}" fill="#e8590c"/><circle cx="262" cy="80" r="14" fill="#eef2fc"/></g><g class="wr" style="transform-origin:340px 180px"><rect x="330" y="120" width="20" height="100" rx="10" fill="#aab3cf"/><circle cx="340" cy="116" r="22" fill="#aab3cf"/><rect x="332" y="86" width="16" height="30" fill="#eef2fc"/></g>`);
+const TYPING=SV(700,360,`<circle cx="130" cy="118" r="46" fill="#f2c9a0"/><path d="M84 104 Q130 52 176 104 Q150 84 84 104Z" fill="#2b2b2b"/><circle cx="114" cy="118" r="5" fill="#2b2b2b"/><circle cx="146" cy="118" r="5" fill="#2b2b2b"/><path d="M112 140 Q130 154 148 140" stroke="#2b2b2b" stroke-width="5" fill="none" stroke-linecap="round"/><rect x="66" y="168" width="128" height="170" rx="44" fill="#2f5fd0"/><path class="arm" d="M176 236 L318 262" stroke="#f2c9a0" stroke-width="22" stroke-linecap="round"/><rect x="300" y="120" width="340" height="200" rx="14" fill="#14234b"/><rect x="312" y="132" width="316" height="176" rx="8" fill="#fff"/><rect x="332" y="150" width="140" height="16" rx="8" fill="#e6eaf5"/><rect x="332" y="182" width="276" height="22" rx="8" fill="#e6eaf5"/><rect x="332" y="216" width="276" height="22" rx="8" fill="#e6eaf5"/><rect x="332" y="260" width="276" height="22" rx="11" fill="#dfe4f2"/><rect class="pf" x="332" y="260" width="10" height="22" rx="11" fill="#1a8f4c"/><path d="M280 320 H660 L640 346 H300 Z" fill="#c9d0e4"/>`);
+const IC={
+clock:SV(96,96,`<circle cx="48" cy="48" r="38" fill="#fff" stroke="#14234b" stroke-width="8"/><line class="mh" x1="48" y1="48" x2="48" y2="22" stroke="#14234b" stroke-width="6" stroke-linecap="round" style="transform-origin:48px 48px"/><line class="hh" x1="48" y1="48" x2="66" y2="48" stroke="#c8102e" stroke-width="6" stroke-linecap="round" style="transform-origin:48px 48px"/><circle cx="48" cy="48" r="5" fill="#14234b"/>`),
+broom:SV(96,96,`<g class="bm" style="transform-origin:48px 14px"><line x1="48" y1="6" x2="48" y2="56" stroke="#8a5a2b" stroke-width="8" stroke-linecap="round"/><polygon points="28,56 68,56 78,92 18,92" fill="#e8b84a"/></g><circle class="sp" cx="14" cy="80" r="5" fill="#ffd23f"/><circle class="sp2" cx="84" cy="70" r="4" fill="#ffd23f"/>`),
+lock:SV(96,96,`<g class="sh" style="transform-origin:48px 48px"><path d="M48 8 L84 22 V48 C84 70 66 84 48 90 C30 84 12 70 12 48 V22 Z" fill="#1a8f4c"/><polyline points="30,48 44,62 68,34" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>`),
+help:SV(96,96,`<circle cx="48" cy="48" r="22" fill="#f2c9a0"/><path d="M20 48 A28 28 0 0 1 76 48" stroke="#14234b" stroke-width="8" fill="none"/><rect x="12" y="40" width="13" height="26" rx="6" fill="#14234b"/><rect x="71" y="40" width="13" height="26" rx="6" fill="#14234b"/><path d="M24 64 Q30 82 46 80" stroke="#14234b" stroke-width="5" fill="none"/><circle cx="48" cy="80" r="5" fill="#c8102e"/>`),
+warn:SV(96,96,`<g class="wn" style="transform-origin:48px 56px"><path d="M48 10 L90 84 H6 Z" fill="#ffd23f" stroke="#c8102e" stroke-width="7" stroke-linejoin="round"/><text x="48" y="74" text-anchor="middle" font-size="46" font-weight="800" fill="#c8102e" font-family="Poppins">!</text></g>`)};
+const BOOK=SV(140,140,`<path d="M30 10 H110 V130 L70 100 L30 130 Z" fill="#c8102e"/>`);
+const SHARE=SV(140,140,`<line x1="40" y1="70" x2="100" y2="36" stroke="#14234b" stroke-width="8"/><line x1="40" y1="70" x2="100" y2="104" stroke="#14234b" stroke-width="8"/><circle cx="36" cy="70" r="20" fill="#1a8f4c"/><circle cx="104" cy="34" r="20" fill="#e8590c"/><circle cx="104" cy="106" r="20" fill="#2f5fd0"/>`);
+const Q=(s,sel)=>s.d.querySelector(sel);
+// A hook 0-5.8
+s=scene(0,5.8);const sA=s;
+el(s,'● INFO SSCASN','left:70px;top:290px;background:#c8102e;color:#fff;font-weight:800;font-size:46px;padding:12px 44px;border-radius:50px',0.1,'pop');
+el(s,'<div style="font-weight:800;font-size:104px;line-height:1.02;color:#ffd23f">GAGAL LOGIN<br>SSCASN?</div><div style="font-weight:600;font-size:44px;margin-top:14px;opacity:.92">Formasi belum muncul?</div>','left:70px;top:420px;width:940px;height:400px;background:#14234b;border-radius:56px;color:#fff;display:flex;flex-direction:column;justify-content:center;padding:0 56px',0.4);
+el(s,LOGIN,'left:60px;top:860px;width:640px;height:420px',0.7,'pop');
+el(s,`<div style="width:260px;height:260px;background:#fff;border-radius:40px;box-shadow:0 6px 20px #14234b30;display:flex;align-items:center;justify-content:center"><img src="file:///home/claude/reel/g2/think.jpg" style="width:232px;height:232px;border-radius:30px;object-fit:cover"></div>`,'right:50px;top:860px',A(s,1.2),'pop');
+el(s,'Tenang, <span class=r>kamu tidak sendirian</span>','right:30px;top:1135px;width:380px;font-weight:800;font-size:40px;line-height:1.1;text-align:center',A(s,3.59));
+ticks.push(t=>{const lt=t-sA.a;const sp=Q(sA,'.spin'),er=Q(sA,'.err');if(!sp)return;sp.style.opacity=lt<1.8?1:0;sp.style.transform=`rotate(${lt*540}deg)`;const k=clamp((lt-1.8)/0.2);er.setAttribute('opacity',k);er.setAttribute('transform',`translate(${lt>1.8?Math.sin(lt*45)*8*clamp(1-(lt-1.8)/0.9):0},0)`)});
+// B1 5.8-10.95
+s=scene(5.8,10.95);const sB1=s;
+el(s,'Yang terjadi di <span class=r>hari pertama</span>','left:70px;top:290px;width:940px',A(s,5.85)).classList.add('h');
+el(s,'Situs sulit dibuka dan gagal login','left:70px;top:410px;width:940px;height:100px;padding:10px 34px;border-left:14px solid #c8102e;font-weight:800;font-size:40px;display:flex;align-items:center',A(s,5.88)).classList.add('card');
+el(s,CROWD,'left:70px;top:540px;width:940px;height:380px',A(s,6.0));
+[['Kok error terus?',6.6,'left:70px'],['Loading lama banget',7.9,'left:360px'],['Gagal login lagi...',9.1,'left:70px']].forEach((b,i)=>el(s,b[0],`${b[2]};top:${960+i*110}px;background:#fff;border-radius:40px 40px 40px 8px;box-shadow:0 4px 14px #14234b25;padding:14px 34px;font-weight:700;font-size:36px;color:#14234b`,A(s,b[1]),'pop'));
+el(s,'ilustrasi keluhan pelamar','left:70px;top:1290px;font-weight:600;font-size:26px;color:#7a84a3',A(s,6.6));
+ticks.push(t=>{const lt=t-sB1.a;const pp=Q(sB1,'.ppl');if(!pp)return;let h='';for(let i=0;i<7;i++){const x=((lt*85+i*100)%650);h+=person(30+x,i%2?250:330,['#2f5fd0','#e8590c','#1a8f4c','#c8102e'][i%4])}pp.innerHTML=h;const b=Q(sB1,'.busy');b.setAttribute('opacity',clamp((lt-0.9)/0.2));Q(sB1,'.srv').querySelectorAll('.led').forEach((l,i)=>l.setAttribute('fill',Math.sin(lt*8+i*2)>0?'#c8102e':'#7a1424'))});
+// B2 10.95-18.7
+s=scene(10.95,18.7);const sB2=s;
+el(s,`<img src="file:///home/claude/reel/g2/zudan.jpg" style="width:330px;height:330px;border-radius:30px;object-fit:cover;object-position:35% 20%;box-shadow:0 8px 24px #14234b40"><div style="flex:1;padding-left:28px"><div style="font-weight:600;font-size:30px;color:#5b6585">Kepala BKN</div><div style="font-weight:800;font-size:46px;line-height:1.1">Zudan Arif Fakrulloh</div></div>`,'left:70px;top:300px;width:940px;height:370px;padding:20px;display:flex;align-items:center',A(s,11.08)).classList.add('card');
+el(s,GEARS,'left:70px;top:700px;width:420px;height:230px',A(s,12.21),'pop');
+el(s,'Kendala dicek ke <span class=r>tim teknis</span>','left:520px;top:740px;width:490px;font-weight:800;font-size:46px;line-height:1.15',A(s,12.3));
+el(s,'<div>Sebagian besar pelamar masih <span class=r>membuat akun</span></div>','left:70px;top:960px;width:940px;height:110px;padding:10px 34px;border-left:14px solid #e8590c;font-weight:800;font-size:38px;display:flex;align-items:center',A(s,15.88)).classList.add('card');
+el(s,TYPING,'left:70px;top:1090px;width:500px;height:260px',A(s,16.0),'pop');
+ticks.push(t=>{const lt=t-sB2.a;const g1=Q(sB2,'.g1');if(!g1)return;g1.style.transform=`rotate(${lt*40}deg)`;Q(sB2,'.g2').style.transform=`rotate(${-lt*60}deg)`;Q(sB2,'.wr').style.transform=`rotate(${Math.sin(lt*4)*14}deg)`;const pf=Q(sB2,'.pf');pf.setAttribute('width',10+266*clamp((t-16.0)/2.4));Q(sB2,'.arm').setAttribute('d',`M176 236 L${318+Math.sin(lt*14)*6} ${262+Math.cos(lt*14)*4}`)});
+// C jangan panik 18.7-38.0
+s=scene(18.7,38.0);const sC=s;
+el(s,'Jangan <span class=r>panik</span>','left:70px;top:290px;width:940px',A(s,18.8)).classList.add('h');
+el(s,'Pendaftaran sampai 21 Desember 2026','left:70px;top:395px;background:#ffd23f;color:#14234b;font-weight:800;font-size:42px;padding:12px 40px;border-radius:50px',A(s,18.9),'pop');
+[['clock','Akses di jam sepi',23.14,'#14234b'],['broom','Bersihkan cache',24.70,'#14234b'],['lock','Hanya buka alamat resmi: sscasn.bkn.go.id',25.77,'#1a8f4c'],['help','Butuh bantuan? Pakai helpdesk resmi BKN',31.79,'#14234b'],['warn','Waspada penipuan: seleksi tidak dipungut biaya',34.75,'#c8102e']].forEach((r,i)=>{el(s,`<div style="width:96px;height:96px;flex:none">${IC[r[0]]}</div><div style="padding-left:24px">${r[1]}</div>`,`left:70px;top:510px;margin-top:${i*160}px;width:940px;height:140px;padding:12px 28px;border-left:14px solid ${r[3]};font-weight:800;font-size:38px;line-height:1.15;display:flex;align-items:center`,A(s,r[2])).classList.add('card')});
+ticks.push(t=>{const q=x=>Q(sC,x);if(!q('.mh'))return;q('.mh').style.transform=`rotate(${t*180}deg)`;q('.hh').style.transform=`rotate(${t*15}deg)`;q('.bm').style.transform=`rotate(${Math.sin(t*7)*20}deg)`;q('.sp').setAttribute('r',3+3*Math.abs(Math.sin(t*5)));q('.sp2').setAttribute('r',3+3*Math.abs(Math.cos(t*5)));q('.sh').style.transform=`scale(${1+0.08*Math.sin(t*5)})`;q('.wn').style.transform=`scale(${1+0.1*Math.sin(t*8)})`});
+// D simpan 38.0-44.6
+s=scene(38.0,44.6);
+el(s,'Simpan dan <span class=r>bagikan</span>','left:70px;top:300px;width:940px',A(s,38.1)).classList.add('h');
+el(s,'Ke temanmu yang lagi kesulitan','left:70px;top:430px;width:940px;font-weight:700;font-size:40px;color:#5b6585',A(s,38.4));
+el(s,BOOK,'left:70px;top:520px;width:150px;height:150px',A(s,38.2),'pop');
+el(s,SHARE,'left:250px;top:520px;width:150px;height:150px',A(s,38.9),'pop');
+el(s,'Ikuti akun ini untuk update seputar CPNS 2026','left:70px;top:730px;width:940px;height:170px;padding:20px 34px;border-left:14px solid #c8102e;font-weight:800;font-size:42px;line-height:1.15;display:flex;align-items:center',A(s,40.06)).classList.add('card');
+el(s,`<img src="${P3('point-up')}" style="height:470px">`,'right:-10px;top:880px',A(s,40.3),'pop');
+// E bundling 44.6-58.6
+s=scene(44.6,58.6);
+el(s,`<img src="file:///home/claude/reel/g2/poster.png" style="width:880px;height:880px;border-radius:30px;box-shadow:0 10px 30px #14234b40">`,'left:100px;top:290px',A(s,44.7),'pop');
+const pill=(txt,a,b,bg,col)=>{el(s,txt,`left:100px;top:1200px;width:880px;text-align:center;background:${bg};color:${col};font-weight:800;font-size:44px;padding:16px 0;border-radius:60px`,A(s,a),'pop');END(b)};
+pill('PAKET BUNDLING LENGKAP',44.75,48.5,'#14234b','#ffd23f');
+pill('TRIK JAWAB CEPAT',48.58,51.15,'#c8102e','#fff');
+pill('DIPERSIAPKAN DARI AWAL',51.21,53.5,'#1a8f4c','#fff');
+pill('TIDAK HANYA SAMPAI SKD',53.64,55.7,'#e8590c','#fff');
+pill('SIAP LANJUT KE SKB',55.78,58.6,'#14234b','#ffd23f');
+// F penutup 58.6-65.72
+s=scene(58.6,65.72);
+el(s,'Kenapa pilih yang <span class=r>SKD saja?</span>','left:70px;top:300px;width:940px',A(s,58.7)).classList.add('h');
+el(s,'SKD + SKB','left:70px;top:520px;background:#14234b;color:#ffd23f;font-weight:800;font-size:96px;padding:20px 70px;border-radius:70px',A(s,59.2),'pop');
+el(s,`<div style="width:340px;height:340px;background:#fff;border-radius:44px;box-shadow:0 6px 20px #14234b30;display:flex;align-items:center;justify-content:center"><img src="file:///home/claude/reel/g2/think.jpg" style="width:310px;height:310px;border-radius:34px;object-fit:cover"></div>`,'left:70px;top:900px',A(s,60.0),'pop');
+el(s,'almahya.id','left:70px;top:760px;background:#ffd23f;font-weight:800;font-size:84px;padding:20px 64px;border-radius:70px',A(s,63.26),'pop');
+el(s,`<img src="${P3('point-up')}" style="height:500px">`,'right:-10px;top:840px',A(s,63.4),'pop');
+const SUB=[[0,3.16,'Gagal login SSCASN dan formasi belum muncul?'],[3.59,4.18,'Tenang,'],[4.40,5.55,'kamu tidak sendirian.'],[5.88,10.79,'Di hari pertama pendaftaran, banyak pelamar mengeluh situs sulit dibuka dan gagal login.'],[11.08,12.08,'Kepala BKN, Zudan Arif Fakrulloh,'],[12.21,15.63,'bilang kendala dicek ke tim teknis,'],[15.88,18.50,'dan sebagian besar pelamar masih membuat akun.'],[18.80,21.55,'Pendaftaran masih dibuka sampai 21 Desember,'],[21.83,22.81,'jadi jangan panik.'],[23.14,24.44,'Coba akses di jam sepi,'],[24.70,25.65,'bersihkan cache,'],[25.77,27.48,'dan hanya buka alamat resmi'],[27.66,31.44,'sscasn.bkn.go.id.'],[31.79,32.51,'Butuh bantuan?'],[32.77,34.47,'Pakai helpdesk resmi BKN.'],[34.75,35.78,'Waspada penipuan,'],[36.05,37.80,'seleksi tidak dipungut biaya.'],[38.16,39.77,'Simpan dan bagikan ke temanmu.'],[40.06,44.49,'Follow akun ini untuk terus dapat update seputar CPNS 2026.'],[44.75,50.94,'Di almahya.id ada paket bundling SKD + SKB + bimbingan online untuk trik jawab cepat.'],[51.21,53.42,'Jadi kamu sudah dipersiapkan dari awal,'],[53.64,55.31,'tidak hanya sampai SKD saja,'],[55.78,58.45,'tapi juga disiapkan saat nanti lanjut ke SKB.'],[58.68,62.98,'Kalau bisa dapat SKD + SKB, untuk apa pilih yang hanya SKD saja?'],[63.26,65.52,'Segera join di almahya.id.']];
+const sb=document.createElement('div');sb.style.cssText='position:absolute;left:50px;right:50px;top:1340px;height:190px;display:flex;align-items:center;justify-content:center;text-align:center;font-weight:800;font-size:46px;line-height:1.2;background:#14234bdd;border-radius:30px;padding:0 30px;opacity:0';document.body.appendChild(sb);
+ticks.push(t=>{const i=SUB.findIndex(x=>t>=x[0]-0.05&&t<=x[1]+0.2);if(i<0){sb.style.opacity=0;return}
+ const [a,b,tx]=SUB[i];const w=tx.split(' ');const tot=tx.length;let c=0;const p=clamp((t-a)/(b-a));
+ sb.innerHTML='<div>'+w.map(x=>{const st=c/tot;c+=x.length+1;return `<span style="color:${st<=p?(st+x.length/tot>=p?'#ffd23f':'#fff'):'#ffffff80'}">${x}</span>`}).join(' ')+'</div>';sb.style.opacity=1;});
+function render(t){
+ sc.forEach(o=>{const vis=t>=o.a&&t<o.b;o.d.style.opacity=vis?clamp((t-o.a)/0.3)*clamp((o.b-t)/0.3):0;
+  if(!vis)return;
+  o.els.forEach(x=>{const p=clamp((t-x.t)/0.5),q=ease(p);x.e.style.opacity=p*(x.end?clamp(1-(t-x.end)/0.25):1);
+   x.e.style.transform=x.kind=='pop'?`scale(${0.6+0.4*q+0.06*Math.sin(p*Math.PI)})`:`translateY(${(1-q)*44}px)`;
+   const im=x.e.querySelector('img');if(im&&x.kind=='pop')im.style.transform=`translateY(${Math.sin(t*3)*6}px)`;})});
+ ticks.forEach(f=>f(t));
+}
+render(0);
+</script></body></html>
