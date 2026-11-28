@@ -12,7 +12,7 @@ Di hari pertama pendaftaran, banyak pelamar mengeluh situs sulit dibuka dan gaga
 
 Pendaftaran masih dibuka sampai dua puluh satu Desember, jadi jangan panik. Coba akses di jam sepi, bersihkan cache, dan hanya buka alamat resmi sscasn titik bkn titik go titik id. Butuh bantuan? Pakai helpdesk resmi BKN. Waspada penipuan, seleksi tidak dipungut biaya.
 
-Simpan dan bagikan ke temanmu.
+Simpan dan bagikan ke temanmu. Follow akun ini untuk terus dapat update seputar CPNS dua ribu dua puluh enam.
 
 Di almahya titik id ada paket bundling SKD plus SKB plus bimbingan online untuk trik jawab cepat. Jadi kamu sudah dipersiapkan dari awal, tidak hanya sampai SKD saja, tapi juga disiapkan saat nanti lanjut ke SKB. Kalau bisa dapat SKD plus SKB, untuk apa pilih yang hanya SKD saja? Segera join di almahya titik i d.
 ```
@@ -23,7 +23,7 @@ Di almahya titik id ada paket bundling SKD plus SKB plus bimbingan online untuk 
 3. Pernyataan Kepala BKN: kutipan singkat, "dicek ke tim teknis"
 4. Tips: jam sepi, bersihkan cache, alamat resmi, helpdesk
 5. Waspada penipuan: seleksi tidak dipungut biaya
-6. CTA: simpan/bagikan, lalu poster bundling default (posts/assets/poster-bundling-skd-skb-default.png) tampil penuh sampai akhir
+6. CTA: simpan/bagikan + ajakan follow, lalu poster bundling default (posts/assets/poster-bundling-skd-skb-default.png) tampil penuh sampai akhir
 
 ## Fakta dan sumber
 - Hari pertama pendaftaran (Jumat 27 Nov 2026) pelamar mengeluh situs sulit diakses, gagal login, formasi belum tampil; Kepala BKN Zudan Arif Fakrulloh: "Saya cek ke tim teknis", "Rata-rata masih buat akun memang". Sumber: Pontianak Post, 27 Nov 2026, https://pontianakpost.jawapos.com/nasional/2611270103/pendaftar-cpns-keluhkan-situs-sscasn-sulit-diakses-hari-pertama-909140-peserta-buat-akun
@@ -42,6 +42,7 @@ Gagal login SSCASN? Formasi belum muncul? Kamu tidak sendirian 👇
 Posisi per 28 November 2026.
 
 💾 Simpan dan bagikan ke temanmu yang lagi daftar!
+➕ Follow akun ini untuk terus dapat update seputar CPNS 2026!
 
 Di www.almahya.id ada paket bundling SKD + SKB + Bimbingan Online untuk trik jawab cepat. Kamu dipersiapkan dari awal, tidak hanya sampai SKD, tapi juga disiapkan untuk SKB. Kalau bisa dapat SKD + SKB, untuk apa pilih yang hanya SKD? Segera join di www.almahya.id (SKB per formasi: skb.almahya.id).
 
