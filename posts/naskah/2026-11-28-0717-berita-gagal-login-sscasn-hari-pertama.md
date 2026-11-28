@@ -14,7 +14,7 @@ Pendaftaran masih dibuka sampai dua puluh satu Desember, jadi jangan panik. Coba
 
 Simpan dan bagikan ke temanmu.
 
-Sambil menunggu, latihan di almahya titik id. Ada tryout SKD lengkap dengan pembahasan, plus soal TIU lama dan terbaru seperti SKD sekolah kedinasan dua ribu dua puluh enam. Coba tryout di almahya titik i d.
+Di almahya titik id ada paket bundling SKD plus SKB plus bimbingan online untuk trik jawab cepat. Jadi kamu sudah dipersiapkan dari awal, tidak hanya sampai SKD saja, tapi juga disiapkan saat nanti lanjut ke SKB. Kalau bisa dapat SKD plus SKB, untuk apa pilih yang hanya SKD saja? Segera join di almahya titik i d.
 ```
 
 ## Rencana scene
@@ -23,7 +23,7 @@ Sambil menunggu, latihan di almahya titik id. Ada tryout SKD lengkap dengan pemb
 3. Pernyataan Kepala BKN: kutipan singkat, "dicek ke tim teknis"
 4. Tips: jam sepi, bersihkan cache, alamat resmi, helpdesk
 5. Waspada penipuan: seleksi tidak dipungut biaya
-6. CTA: simpan/bagikan, logo almahya.id, tryout SKD + TIU lama dan terbaru
+6. CTA: simpan/bagikan, lalu poster bundling default (posts/assets/poster-bundling-skd-skb-default.png) tampil penuh sampai akhir
 
 ## Fakta dan sumber
 - Hari pertama pendaftaran (Jumat 27 Nov 2026) pelamar mengeluh situs sulit diakses, gagal login, formasi belum tampil; Kepala BKN Zudan Arif Fakrulloh: "Saya cek ke tim teknis", "Rata-rata masih buat akun memang". Sumber: Pontianak Post, 27 Nov 2026, https://pontianakpost.jawapos.com/nasional/2611270103/pendaftar-cpns-keluhkan-situs-sscasn-sulit-diakses-hari-pertama-909140-peserta-buat-akun
@@ -43,7 +43,7 @@ Posisi per 28 November 2026.
 
 💾 Simpan dan bagikan ke temanmu yang lagi daftar!
 
-Sambil menunggu, latihan di www.almahya.id: tryout SKD lengkap dengan pembahasan, soal TIU lama dan terbaru seperti SKD sekolah kedinasan 2026. Materi SKB sesuai formasi di skb.almahya.id.
+Di www.almahya.id ada paket bundling SKD + SKB + Bimbingan Online untuk trik jawab cepat. Kamu dipersiapkan dari awal, tidak hanya sampai SKD, tapi juga disiapkan untuk SKB. Kalau bisa dapat SKD + SKB, untuk apa pilih yang hanya SKD? Segera join di www.almahya.id (SKB per formasi: skb.almahya.id).
 
 Sumber: Pontianak Post & Harian Jogja (27 Nov 2026), sscasn.bkn.go.id
 
